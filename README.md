@@ -2,6 +2,9 @@
 
 A Flutter package to provide a searchable and selectable list with select/unselect functionality, including the option to select or deselect all items at once.
 
+![Selectable Search List Example](images/example.png)
+
+
 ## Features
 
 - **Searchable List:** Easily search for items within the list.

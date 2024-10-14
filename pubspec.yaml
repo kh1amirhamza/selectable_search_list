@@ -1,6 +1,6 @@
 name: selectable_search_list
 description: "A Flutter package to provide a searchable and selectable list with select/unselect all functionality."
-version: 0.0.1
+version: 0.0.2
 homepage: "https://github.com/kh1amirhamza/selectable_search_list" # Replace with your GitHub or other homepage link
 
 environment:
